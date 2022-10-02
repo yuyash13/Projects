@@ -6,7 +6,7 @@ This repository is containing portfolio of data analyst projects completed by me
 
  - Data Analysis And Visualization
 
- 1) Global Terrorism
+ 1) Global Terrorism with Jupyter Notebook
  
     This dataset includes city, their motive, no. of kills, year of attacks, countries, type of attack, types of target, terrorist group name, property type. Following are some of the topics covered
   
@@ -17,7 +17,7 @@ This repository is containing portfolio of data analyst projects completed by me
      - Who were the target of Terrorist Organization
      
      
- 2) Olympics
+ 2) Olympics with Jupyter Notebook
  
     Here I have reviewed the records of olympics. i analysed and explore the dataset and find out the insights of data set and also visualized with the hep of matplotlib and seaborn library. Following are some topics which i touched during analysis
     
@@ -26,3 +26,13 @@ This repository is containing portfolio of data analyst projects completed by me
     - Male and Femal ratio
     - Gold Medals per Country
     - Height vs Weight of Gold Medalist
+
+3) Sales Insights with Mysql
+   
+   I have done analysis of this dataset with  the help of Mysql. So this dataset consist of sales information of a company where I further did my analysis to get insights of sales. Following are some topic I analyised
+   
+    - No. of Transactions
+    - Most product sold in Chennai
+    - Total revenue in january 2020
+
+4) 

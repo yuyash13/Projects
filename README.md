@@ -47,3 +47,5 @@ This repository is containing portfolio of data analyst projects completed by me
      - Revenue by Market
      - Sales Quantity By Market
      - Revenue By Year
+     
+ 5) Data Cleaning Project
